@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2015-06-28 00:27:28
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.22
+WORDPRESS:	4.2.2
+PHP INFO:	5.3.29 | SAPI: cgi-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (2048M default) 
+MEMORY STACK: 29MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP (query limit - 100)
+MYSQLDUMP:    Is Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20150628_frontcubetv_558f3f41bdded7410150628002641_database.sql 
+SQL FILE SIZE: 512.59KB 
+SQL FILE TIME: 2015-06-28 00:27:28 
+SQL RUNTIME: 0.04 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home2/cuber/public_html/fctv.fcl.me/ep03 
+ARCHIVE FILE: 20150628_frontcubetv_558f3f41bdded7410150628002641_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	36.8MB 
+STATS:	Dirs 147 | Files 1,307 | Links 0 
+SQL ADDED: 20150628_frontcubetv_558f3f41bdded7410150628002641_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1454
+    [filename] => /home2/cuber/public_html/fctv.fcl.me/ep03/wp-snapshots/tmp/20150628_frontcubetv_558f3f41bdded7410150628002641_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 24.39MB 
+ARCHIVE RUNTIME: 2.84 sec. 
+MEMORY STACK: 29.5MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/home2/cuber/public_html/fctv.fcl.me/ep03/wp-snapshots/tmp/20150628_frontcubetv_558f3f41bdded7410150628002641_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 512.59KB 
+Installer File: 317.99KB 
+Archive File: 24.39MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 3.06 sec.
+PEAK PHP MEMORY USED: 32MB
+DONE PROCESSING => 20150628_frontcubetv 2015-06-28 00:27:31
+ 
